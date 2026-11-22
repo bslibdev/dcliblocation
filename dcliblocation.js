@@ -34,7 +34,7 @@
         window.close = () => { };
 
         $('colgroup col').eq(0).css('width', '65px');
-        $('table').css('width', '225px');
+        $('table').css('width', '235px');
 
         let trList = $('tr');
         console.log(trList);
@@ -383,7 +383,7 @@
             <tr>
                 <td colspan="2" style="text-align: center;">
                     <img src="${imageUrl}"
-                         style="width: 220px; height: auto; float: left;"/>
+                         style="width: 235px; height: auto; float: left;"/>
                 </td>
             </tr>
         `);
