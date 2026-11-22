@@ -59,7 +59,7 @@
             { 별치기호: '사운드북', 시작번호: '000-1', 끝번호: '999.999', 서가번호: '사운드북' },
             { 별치기호: '빅북', 시작번호: '000-1', 끝번호: '813.8-90', 서가번호: '빅북1' },
             { 별치기호: '빅북', 시작번호: '813.8-91', 끝번호: '999.999', 서가번호: '빅북2' },
-            { 별치기호: '아동', 시작번호: '000', 끝번호: '082-4', 서가번호: '아동-01' },
+            { 별치기호: '아동', 시작번호: '000-1', 끝번호: '082-4', 서가번호: '아동-01' },
             { 별치기호: '아동', 시작번호: '082-5', 끝번호: '099', 서가번호: '아동-02' },
             { 별치기호: '아동', 시작번호: '100', 끝번호: '199.999', 서가번호: '아동-03' },
             { 별치기호: '아동', 시작번호: '200', 끝번호: '299.999', 서가번호: '아동-04' },
@@ -74,13 +74,13 @@
             { 별치기호: '아동', 시작번호: '813.8-881', 끝번호: '843-140', 서가번호: '아동-13' },
             { 별치기호: '아동', 시작번호: '843-141', 끝번호: '999.999', 서가번호: '아동-14' },
             { 별치기호: '유아', 시작번호: '813.8-71', 끝번호: '899.999', 서가번호: '아동-15' },
-            { 별치기호: '유아', 시작번호: '000', 끝번호: '813.8-70', 서가번호: '아동-16' },
+            { 별치기호: '유아', 시작번호: '000-1', 끝번호: '813.8-70', 서가번호: '아동-16' },
             { 별치기호: '유아', 시작번호: '900', 끝번호: '999.999', 서가번호: '아동-17' },
-            { 별치기호: 'AR도서', 시작번호: '000', 끝번호: '999.999', 서가번호: 'AR,더책' },
-            { 별치기호: '더책', 시작번호: '000', 끝번호: '999.999', 서가번호: 'AR,더책' },
-            { 별치기호: '아동영어', 시작번호: '000', 끝번호: '999.999', 서가번호: '아동영어' },
-            { 별치기호: '아동잡지', 시작번호: '아동잡지', 끝번호: '아동잡지', 서가번호: '아동잡지' },
-            { 별치기호: '', 시작번호: '000', 끝번호: '028', 서가번호: '2층-01' },
+            { 별치기호: 'AR도서', 시작번호: '000-1', 끝번호: '999.999', 서가번호: 'AR,더책' },
+            { 별치기호: '더책', 시작번호: '000-1', 끝번호: '999.999', 서가번호: 'AR,더책' },
+            { 별치기호: '아동영어', 시작번호: '000-1', 끝번호: '999.999', 서가번호: '아동영어' },
+            { 별치기호: '아동잡지', 시작번호: '000-1', 끝번호: '999.999', 서가번호: '아동잡지' },
+            { 별치기호: '', 시작번호: '000-1', 끝번호: '028', 서가번호: '2층-01' },
             { 별치기호: '', 시작번호: '029', 끝번호: '126.4', 서가번호: '2층-02' },
             { 별치기호: '', 시작번호: '126.5', 끝번호: '189-29', 서가번호: '2층-03' },
             { 별치기호: '', 시작번호: '189-30', 끝번호: '199.999', 서가번호: '2층-04' },
@@ -112,13 +112,13 @@
             { 별치기호: '', 시작번호: '860', 끝번호: '909-49', 서가번호: '3층-30' },
             { 별치기호: '', 시작번호: '909-50', 끝번호: '911.058', 서가번호: '3층-31' },
             { 별치기호: '', 시작번호: '911.059', 끝번호: '999.999', 서가번호: '3층-32' },
-            { 별치기호: '큰글자', 시작번호: '000', 끝번호: '999.999', 서가번호: '부산,큰글자' },
-            { 별치기호: '부산출판', 시작번호: '000', 끝번호: '999.999', 서가번호: '부산,큰글자' },
-            { 별치기호: '부모교육', 시작번호: '000', 끝번호: '999.999', 서가번호: '부모교육' },
-            { 별치기호: '웹툰', 시작번호: '000', 끝번호: '999.999', 서가번호: '웹툰' },
-            { 별치기호: '다문화', 시작번호: '000', 끝번호: '999.999', 서가번호: '다문화' },
-            { 별치기호: '영어원서', 시작번호: '000', 끝번호: '999.999', 서가번호: '영어원서' },
-            { 별치기호: '점자도서', 시작번호: '000', 끝번호: '999.999', 서가번호: '점자' }
+            { 별치기호: '큰글자', 시작번호: '000-1', 끝번호: '999.999', 서가번호: '부산,큰글자' },
+            { 별치기호: '부산출판', 시작번호: '000-1', 끝번호: '999.999', 서가번호: '부산,큰글자' },
+            { 별치기호: '부모교육', 시작번호: '000-1', 끝번호: '999.999', 서가번호: '부모교육' },
+            { 별치기호: '웹툰', 시작번호: '000-1', 끝번호: '999.999', 서가번호: '웹툰' },
+            { 별치기호: '다문화', 시작번호: '000-1', 끝번호: '999.999', 서가번호: '다문화' },
+            { 별치기호: '영어원서', 시작번호: '000-1', 끝번호: '999.999', 서가번호: '영어원서' },
+            { 별치기호: '점자도서', 시작번호: '000-1', 끝번호: '999.999', 서가번호: '점자' }
         ];
 
         // 복합 번호 비교 함수
@@ -243,139 +243,139 @@
         let imageUrl;
 
         if (서가위치 === '영유아') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/1%EC%B8%B5-1.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/영유아실-영유아.png';
         } else if (서가위치 === '보드북') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/1%EC%B8%B5-2.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/영유아실-보드북.png';
         } else if (서가위치 === '팝업북') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/1%EC%B8%B5-3.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/영유아실-팝업북.png';
         } else if (서가위치 === '사운드북') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/1%EC%B8%B5-4.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/영유아실-사운드북.png';
         } else if (서가위치 === '빅북1') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/1%EC%B8%B5-5.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/영유아실-빅북1.png';
         } else if (서가위치 === '빅북2') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/1%EC%B8%B5-M.png';
-        } else if (서가위치 === '아동-01') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-6.png';
-        } else if (서가위치 === '아동-02') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-7.png';
-        } else if (서가위치 === '아동-03') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-8.png';
-        } else if (서가위치 === '아동-04') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-9.png';
-        } else if (서가위치 === '아동-05') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-10.png';
-        } else if (서가위치 === '아동-06') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-11.png';
-        } else if (서가위치 === '아동-07') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-12.png';
-        } else if (서가위치 === '아동-08') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-13.png';
-        } else if (서가위치 === '아동-09') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-14.png';
-        } else if (서가위치 === '아동-10') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-15.png';
-        } else if (서가위치 === '아동-11') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-16.png';
-        } else if (서가위치 === '아동-12') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-17.png';
-        } else if (서가위치 === '아동-13') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-18.png';
-        } else if (서가위치 === '아동-14') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-19.png';
-        } else if (서가위치 === '아동-15') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-20.png';
-        } else if (서가위치 === '아동-16') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-21.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/영유아실-빅북2.png';
         } else if (서가위치 === '어린이자료실-신간') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-21.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-신간.png';
+        } else if (서가위치 === '아동-01') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-01.png';
+        } else if (서가위치 === '아동-02') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-02.png';
+        } else if (서가위치 === '아동-03') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-03.png';
+        } else if (서가위치 === '아동-04') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-04.png';
+        } else if (서가위치 === '아동-05') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-05.png';
+        } else if (서가위치 === '아동-06') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-06.png';
+        } else if (서가위치 === '아동-07') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-07.png';
+        } else if (서가위치 === '아동-08') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-08.png';
+        } else if (서가위치 === '아동-09') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-09.png';
+        } else if (서가위치 === '아동-10') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-10.png';
+        } else if (서가위치 === '아동-11') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-11.png';
+        } else if (서가위치 === '아동-12') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-12.png';
+        } else if (서가위치 === '아동-13') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-13.png';
+        } else if (서가위치 === '아동-14') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-14.png';
+        } else if (서가위치 === '아동-15') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-15.png';
+        } else if (서가위치 === '아동-16') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-16.png';
         } else if (서가위치 === '아동-17') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-22.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-17.png';
         } else if (서가위치 === 'AR,더책') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-23.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-AR,더책.png';
         } else if (서가위치 === '아동영어') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-D.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-아동영어.png';
         } else if (서가위치 === '아동잡지') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-H.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/어린이실-잡지.png';
         } else if (서가위치 === '2층-01') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-I.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-01.png';
         } else if (서가위치 === '2층-02') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-J.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-02.png';
         } else if (서가위치 === '2층-03') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-K.png';
+            imageUrl = 'hhttps://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-03.png';
         } else if (서가위치 === '2층-04') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-L.png';
+            imageUrl = 'hhttps://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-04.pngg';
         } else if (서가위치 === '2층-05') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/3%EC%B8%B5-A.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-05.png';
         } else if (서가위치 === '2층-06') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/3%EC%B8%B5-B.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-06.png';
         } else if (서가위치 === '2층-07') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/3%EC%B8%B5-C.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-07.png';
         } else if (서가위치 === '2층-08') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/3%EC%B8%B5-%ED%8A%B9%ED%99%94.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-08.png';
         } else if (서가위치 === '2층-09') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/3%EC%B8%B5-%ED%8A%B9%ED%99%94.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-09.png';
         } else if (서가위치 === '2층-10') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-E.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-10.png';
         } else if (서가위치 === '2층-11') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-F.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-11.png';
         } else if (서가위치 === '2층-12') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/2%EC%B8%B5-G.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-12.png';
         } else if (서가위치 === '2층-13') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-1.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-13.png';
         } else if (서가위치 === '2층-14') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-2.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-14.png';
         } else if (서가위치 === '2층-15') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-3.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-15.png';
         } else if (서가위치 === '2층-16') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-4.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-16.png';
         } else if (서가위치 === '2층-17') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-5.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-17.png';
         } else if (서가위치 === '3층-18') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-6.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-18.png';
         } else if (서가위치 === '3층-19') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-7.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-19.png';
         } else if (서가위치 === '3층-20') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-8.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-20.png';
         } else if (서가위치 === '3층-21') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-9.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-21.png';
         } else if (서가위치 === '3층-22') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-10.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-22.png';
         } else if (서가위치 === '3층-23') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-11.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-23.png';
         } else if (서가위치 === '3층-24') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-12.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-24.png';
         } else if (서가위치 === '3층-25') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-13.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-25.png';
         } else if (서가위치 === '3층-26') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-14.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-26.png';
         } else if (서가위치 === '3층-27') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-15.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-27.png';
         } else if (서가위치 === '3층-28') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-16.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-28.png';
         } else if (서가위치 === '3층-29') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-17.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-29.png';
         } else if (서가위치 === '3층-30') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-18.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-30.png';
         } else if (서가위치 === '3층-31') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-19.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-31.png';
         } else if (서가위치 === '3층-32') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-20.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(3층)-32.png';
         } else if (서가위치 === '종합자료실-신간') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-21.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-신간.png';
         } else if (서가위치 === '부산,큰글자') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-21.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-부산,큰글자.png';
         } else if (서가위치 === '부모교육') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-N.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-부모교육.png';
         } else if (서가위치 === '웹툰') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-O.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-웹툰.png';
         } else if (서가위치 === '다문화') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-P.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-다문화.png';
         } else if (서가위치 === '영어원서') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-Q.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-영어원서.png';
         } else if (서가위치 === '점자') {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%A7%80%ED%95%981%EC%B8%B5-R.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-점자.png';
         } else {
-            imageUrl = 'https://ideacannon.github.io/juryelibrary.io/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%B6%94%EA%B0%80%EC%A4%91.png';//  기본이미지
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/이미지 추가중.png';//  기본이미지
         }
 
         // 이미지 추가
