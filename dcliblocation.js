@@ -87,7 +87,7 @@
             { 별치기호: '', 시작번호: '200', 끝번호: '229.999', 서가번호: '2층-05' },
             { 별치기호: '', 시작번호: '230', 끝번호: '299.999', 서가번호: '2층-06' },
             { 별치기호: '', 시작번호: '300', 끝번호: '321.5-19', 서가번호: '2층-07' },
-            { 별치기호: '', 시작번호: '3215-20', 끝번호: '325.1-49', 서가번호: '2층-08' },
+            { 별치기호: '', 시작번호: '321.5-20', 끝번호: '325.1-49', 서가번호: '2층-08' },
             { 별치기호: '', 시작번호: '325.1-50', 끝번호: '325.211-159', 서가번호: '2층-09' },
             { 별치기호: '', 시작번호: '325.211-160', 끝번호: '325.22', 서가번호: '2층-10' },
             { 별치기호: '', 시작번호: '325.23', 끝번호: '326', 서가번호: '2층-11' },
@@ -301,9 +301,9 @@
         } else if (서가위치 === '2층-02') {
             imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-02.png';
         } else if (서가위치 === '2층-03') {
-            imageUrl = 'hhttps://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-03.png';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-03.png';
         } else if (서가위치 === '2층-04') {
-            imageUrl = 'hhttps://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-04.pngg';
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-04.pngg';
         } else if (서가위치 === '2층-05') {
             imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-05.png';
         } else if (서가위치 === '2층-06') {
