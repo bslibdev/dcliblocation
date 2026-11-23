@@ -3,7 +3,7 @@
 // @namespace    dclibrary
 // @version      2026-11-22
 // @description  도서관 서가위치&지도 표시
-// @author       IdeaCannon
+// @author       Sung Jong-Min
 // @match        https://library.busan.go.kr/dcbooks/book/search/bookPrint
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=library.busan.go.kr
 // @grant        none
