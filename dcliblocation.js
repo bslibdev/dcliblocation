@@ -9,8 +9,8 @@
 // @grant        none
 // @run-at       document-start
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
-// @updateURL    https://raw.githubusercontent.com/dclibdev/dclibrary.io/refs/heads/main/location.js
-// @downloadURL  https://raw.githubusercontent.com/dclibdev/dclibrary.io/refs/heads/main/location.js
+// @updateURL    https://raw.githubusercontent.com/bslibdev/dcliblocation/refs/heads/main/dcliblocation.js
+// @downloadURL  https://raw.githubusercontent.com/bslibdev/dcliblocation/refs/heads/main/dcliblocation.js
 // ==/UserScript==
 
 (function () {
