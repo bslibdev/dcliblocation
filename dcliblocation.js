@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         덕천도서관 서가위치 출력
 // @namespace    dclibrary
-// @version      2026-11-23
+// @version      2026-11-24
 // @description  도서관 서가위치&지도 표시
 // @author       Sung Jong-Min
 // @match        https://library.busan.go.kr/dcbooks/book/search/bookPrint
