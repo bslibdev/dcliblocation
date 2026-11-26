@@ -376,6 +376,8 @@
             imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-영어원서.png';
         } else if (서가위치 === '점자') {
             imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-점자.png';
+        } else if (서가위치 === '원북원') {
+            imageUrl = 'https://bslibdev.github.io/dcliblocation/img/종합자료실(2층)-원북원.png';
         } else {
             imageUrl = 'https://bslibdev.github.io/dcliblocation/img/이미지 추가중.png';//  기본이미지
         }
