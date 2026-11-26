@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         덕천도서관 서가위치 출력
 // @namespace    dclibrary
-// @version      2026-11-24
+// @version      2026-11-25
 // @description  도서관 서가위치&지도 표시
 // @author       Sung Jong-Min
 // @match        https://library.busan.go.kr/dcbooks/book/search/bookPrint
@@ -232,13 +232,15 @@
         let lastTr = $('tr:last');
         const matched별치기호 = Object.keys(별치기호매핑).find(key => 청구기호.includes(key));
         const firstDigitMatch = 청구기호.match(/\d/);
-        const 서가위치출력 = is신간
-            ? '신간자료 코너'
-            : (matched별치기호
-                ? `${별치기호매핑[matched별치기호]} 서가`
-                : (firstDigitMatch
-                    ? `${firstDigitMatch[0]}00(${주제분류[firstDigitMatch[0]]}) 서가`
-                    : 서가위치));
+        const 서가위치출력 = 서가위치 === '원북원'
+            ? '원북원 코너'
+            : (is신간
+                ? '신간자료 코너'
+                : (matched별치기호
+                    ? `${별치기호매핑[matched별치기호]} 서가`
+                    : (firstDigitMatch
+                        ? `${firstDigitMatch[0]}00(${주제분류[firstDigitMatch[0]]}) 서가`
+                        : 서가위치)));
         lastTr.before(createRow('서가위치: ', 서가위치출력));
 
         // 서가위치에 따라 이미지 호출
