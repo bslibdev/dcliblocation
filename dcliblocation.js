@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         덕천도서관 서가위치 출력
 // @namespace    dclibrary
-// @version      2026-11-22
+// @version      2026-11-23
 // @description  도서관 서가위치&지도 표시
 // @author       Sung Jong-Min
 // @match        https://library.busan.go.kr/dcbooks/book/search/bookPrint
@@ -146,7 +146,9 @@
 
         // 자료실 값에 따른 서가위치 설정
         let 서가위치 = '서가번호를 찾을 수 없습니다';
-        if (자료실.includes('종합자료실(신간코너)')) {
+        if (서명.includes('[원북원]')) {
+            서가위치 = '원북원';
+        } else if (자료실.includes('종합자료실(신간코너)')) {
             서가위치 = '종합자료실-신간';
         } else if (자료실.includes('어린이자료실(신간코너)')) {
             서가위치 = '어린이자료실-신간';
